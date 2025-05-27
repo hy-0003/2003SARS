@@ -93,10 +93,6 @@ pip install numpy scipy pandas matplotlib scikit-learn
    path_to_excel = r"新建XLSX工作表.xlsx"  # 🚨 替换为实际路径
    ```
 
-### 执行代码
-```bash
-python seird_model.py
-```
 
 ---
 
