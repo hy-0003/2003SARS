@@ -90,7 +90,7 @@ pip install numpy scipy pandas matplotlib scikit-learn
    - `💊 治愈出院累计`
 2. 修改代码文件路径：
    ```python
-   path_to_excel = r"新建XLSX工作表.xlsx"  # 🚨 替换为实际路径
+   path_to_excel = r"data/新建XLSX工作表.xlsx"  # 🚨 替换为实际路径
    ```
 
 
@@ -100,7 +100,7 @@ pip install numpy scipy pandas matplotlib scikit-learn
 
 | 历史拟合 | 未来预测 |
 |---------|----------|
-| ![历史拟合](C1.png) | ![未来预测](C2.png) |
+| ![历史拟合](picture/C1.png) | ![未来预测](picture/C2.png) |
 
 **模型表现**：
 - 累计病例预测误差 <5%
@@ -119,7 +119,7 @@ pip install numpy scipy pandas matplotlib scikit-learn
 ## 🤝 贡献与许可
 
 - **贡献指南**：欢迎提交Issue或Pull Request  
-  ![GitHub Issues](I2.png)(https://github.com/hy-0003/2003SARS)
+  ![GitHub Issues](picture/I2.png)(https://github.com/hy-0003/2003SARS)
 
 - **许可**：公开项目，任何人都可以拿到去做任何事情（除违法犯罪）
 
