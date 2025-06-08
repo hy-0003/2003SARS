@@ -119,7 +119,7 @@ pip install numpy scipy pandas matplotlib scikit-learn
 ## 🤝 贡献与许可
 
 - **贡献指南**：欢迎提交Issue或Pull Request  
-  ![GitHub Issues](picture/I2.png)(https://github.com/hy-0003/2003SARS)
+  ![GitHub Issues](picture/I2.png)
 
 - **许可**：公开项目，任何人都可以拿到去做任何事情（除违法犯罪）
 
